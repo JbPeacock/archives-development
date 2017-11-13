@@ -1,6 +1,6 @@
 <?php include 'header.php';?> 
 
-<div class="container-fluid padding-top:10%">
+<div class="container-fluid padding-top:5%">
     <div class="col-xs-12">
         <div class="panel panel-default">
             <div class="panel-heading">
@@ -8,9 +8,8 @@
             </div>
             <div class="panel-body">
                 <p class="text-center">This site is largely intended to be a first project/portfolio.</p>
-                <!-- <p class="text-center">The forums are for the discussion of all things creative and learned.</p>
-                <p class="text-center">I have named them after Saraswati, the Hindu goddess of learning and creativity.</p> -->
-                <hr>
+                <p class="text-center">The forums are for the discussion of all things creative and learned.</p>
+                <p class="text-center">I have named them after Saraswati, the Hindu goddess of learning and creativity.</p><hr>
                 <p class="text-center">
                 This website was created by Justin Peacock.
                 </p>
